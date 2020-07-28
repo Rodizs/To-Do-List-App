@@ -1,4 +1,4 @@
 # to-do-List
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![to-do list](https://raw.githubusercontent.com/Rodizs/to-do-List/master/todo-list.png)
 
 A minimalist and responsive To-Do List with Vanilla JavaScript
